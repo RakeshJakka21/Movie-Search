@@ -34,6 +34,13 @@ A colorful and responsive web app that lets you search for movies by typing the 
    git clone https://github.com/RakeshJakka21/Movie-Search.git
    cd Movie-Search
 
-output:
+---
+
+# Demo
+https://rakeshjakka21.github.io/Movie-Search/
+
+---
+
+# output:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2be0fa8-57ad-4daf-aa43-d4d8c0419f05" />
